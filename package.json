@@ -1,0 +1,19 @@
+{
+  "name": "02-homework",
+  "version": "1.0.0",
+  "description": "Homework 12",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "EmpTrack"
+  },
+  "author": "Sylvia",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  }
+}
